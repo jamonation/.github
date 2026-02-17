@@ -1,0 +1,9 @@
+issuer: https://accounts.google.com
+
+# jcamisso-materializer@jcamisso-chainguard-dev.iam.gserviceaccount.com
+subject: "107361210749310329179"
+
+permissions:
+  contents: write
+  issues: write
+  pull_requests: write
