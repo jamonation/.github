@@ -1,0 +1,8 @@
+issuer: https://accounts.google.com
+
+# jcamisso-fipscan@jcamisso-chainguard-dev.iam.gserviceaccount.com
+subject: "102820893381870642853"
+
+permissions:
+  contents: read
+  issues: write
