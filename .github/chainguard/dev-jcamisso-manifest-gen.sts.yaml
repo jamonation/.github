@@ -1,0 +1,10 @@
+issuer: https://accounts.google.com
+
+# jcamisso-mfg@jcamisso-chainguard-dev.iam.gserviceaccount.com
+subject: "112782819431320131180"
+
+permissions:
+  checks: write
+  contents: write
+  issues: write
+  pull_requests: write
